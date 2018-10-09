@@ -1,3 +1,3 @@
 # homebrew-casks
 
-Casks for Cybraics apps
+Casks for apps used by Cybraics workstation setup.
